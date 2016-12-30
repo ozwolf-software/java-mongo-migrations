@@ -5,6 +5,10 @@
 This library is designed to allow tracked Mongo schema migrations inside a Java application, creating the ability to write code-based database migrations utilising your own Java driver connection to achieve this.
 
 This library utilises the [Jongo](http://jongo.org) library for executing migrations against the Mongo database schema, while keeping track of migration state.
+
+## Project Upgraded
+
+This project has reached it's EOL and has been upgraded to the new [mongoTrek](https://github.com/ozwolf-software/mongo-trek) project
  
 ## Dependency
 

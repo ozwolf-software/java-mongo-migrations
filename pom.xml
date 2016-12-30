@@ -6,7 +6,7 @@
 
     <groupId>net.ozwolf</groupId>
     <artifactId>java-mongo-migrations</artifactId>
-    <version>4.1.0</version>
+    <version>4.1.1</version>
     <name>Java Mongo Migrations</name>
     <description>Mongo migrations tool that allows in-code migrations via the Jongo library.</description>
     <url>https://github.com/ozwolf-software/java-mongo-migrations</url>
